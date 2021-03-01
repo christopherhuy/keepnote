@@ -1,0 +1,19 @@
+#This is a test file to check stuff - CJH 3-1-21
+
+private_key_id
+private_key
+client_id
+
+walmart
+
+tenant_id
+
+key
+
+client
+
+DA-Secrets
+
+sams
+
+
